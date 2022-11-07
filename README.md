@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Copa 2022</h1>
+<h1 align="center"> Telas de Login e Registro</h1>
 
 <p align="center">
 Tela de login e cadastro criado para uso pessoal.
